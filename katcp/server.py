@@ -2005,7 +2005,7 @@ class DeviceServer(DeviceServerBase):
             !sensor-list ok 5
 
             ?sensor-list cpu.power.on
-            #sensor-list cpu.power.on Whether\_CPU\_hase\_power. \@ boolean
+            #sensor-list cpu.power.on Whether\_CPU\_has\_power. \@ boolean
             !sensor-list ok 1
 
             ?sensor-list /voltage/
